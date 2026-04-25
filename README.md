@@ -2,16 +2,23 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+### Requirements
+
+- [yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
+- [NodeJS@v24.15.0](https://nodejs.org/en/download)
+
+### Installing the Dependencies
+
+```
+yarn install
+```
+
+### Running the Project
+
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
